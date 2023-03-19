@@ -1,5 +1,9 @@
 # Application-by-ChatGPT
-Этот код полностью создал ИИ.
+
+
+<h1 align="center">Этот код полностью создал ИИ.
+  <a href="application-by-chatgpt.netlify.app" target="_blank">Посмотреть пример можно здесь</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 Посмотреть пример можно здесь: application-by-chatgpt.netlify.app
 
