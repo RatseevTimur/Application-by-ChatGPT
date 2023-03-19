@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Этот код полностью создал ИИ.</h1>
-  <h3><a href="application-by-chatgpt.netlify.app" target="_blank">Посмотреть пример можно здесь</a> 
+  <h3><a href="[application-by-chatgpt.netlify.app](https://application-by-chatgpt.netlify.app/)" target="_blank">Посмотреть пример можно здесь</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 
 
